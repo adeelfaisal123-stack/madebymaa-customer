@@ -1,0 +1,71 @@
+name: customer
+description: "Customer app for Made by Maa — Android."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.5.3
+  google_maps_flutter: ^2.12.1
+  geolocator: ^14.0.2
+  geocoding: ^4.0.0
+  http: ^1.6.0
+  image_picker: ^1.1.2
+  firebase_core: ^4.9.0
+  firebase_auth: ^6.5.1
+  intl_phone_field: ^3.2.0
+  pinput: ^6.0.2
+  url_launcher: ^6.3.1
+  webview_flutter: ^4.13.0
+  razorpay_flutter: ^1.4.5
+  flutter_stripe: ^11.5.0
+  flutter_cashfree_pg_sdk: ^2.4.0+52
+  firebase_messaging: ^16.3.0
+  flutter_local_notifications: ^18.0.1
+
+dependency_overrides:
+  # Geolocator pulls an older package_info_plus that fails to compile
+  # against Kotlin 2.x / AGP 8.11 (cannot find PackageInfoPlugin).
+  package_info_plus: 9.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: assets/icons/launcher_icon.png
+  adaptive_icon_background: "#6221B3"
+  adaptive_icon_foreground: assets/icons/launcher_icon.png
+  min_sdk_android: 21
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/icons/launcher_icon.png
+    - assets/images/made_by_maa_logo.png
+    - assets/images/made_by_maa_logo_splash.png
+    - assets/images/intro_customer_1.png
+    - assets/images/intro_customer_2.png
+    - assets/images/intro_customer_3.png
+    - assets/images/empty_dishes.png
+    - assets/images/empty_dishes_search.png
+    - assets/images/empty_nearby_kitchens.png
+    - assets/images/empty_cart.png
+    - assets/images/empty_wishlist.png
+    - assets/images/empty_orders.png

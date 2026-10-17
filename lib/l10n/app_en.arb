@@ -1,0 +1,90 @@
+{
+  "@@locale": "en",
+  "navCart": "Cart",
+  "navOrders": "Orders",
+  "navExplore": "Explore",
+  "navNearby": "Nearby",
+  "navProfile": "Profile",
+  "nearbyMapEmpty": "No kitchens within {radius} km of your location.",
+  "@nearbyMapEmpty": {
+    "placeholders": {
+      "radius": {
+        "type": "String"
+      }
+    }
+  },
+  "nearbyLocationRequired": "Set your location to see nearby kitchens.",
+  "nearbyKitchenCount": "{count, plural, =1{1 kitchen within {radius} km} other{{count} kitchens within {radius} km}}",
+  "@nearbyKitchenCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "radius": {
+        "type": "String"
+      }
+    }
+  },
+  "nearbyTitle": "All Mom Chefs Near You",
+  "nearbySearchHint": "Search mom chef",
+  "nearbyFilterAll": "All",
+  "nearbyFilterTopRated": "Top rated",
+  "nearbyFilterCuisine": "Cuisine",
+  "notificationsTitle": "Notifications",
+  "notificationsEmpty": "No notifications yet",
+  "notificationsEmptyHint": "Order updates and announcements will appear here when you receive them.",
+  "setYourLocation": "Set your location",
+  "searchKitchensDishes": "Search kitchens, dishes…",
+  "cravingSomething": "Craving something?",
+  "categoryAll": "All",
+  "categoryBreakfast": "Breakfast",
+  "categoryLunch": "Lunch",
+  "categorySnacks": "Snacks",
+  "categorySweets": "Sweets",
+  "tastyDishesTitle": "Tasty dishes to try",
+  "tastyDishesSubtitle": "Handpicked favourites from our best home kitchens",
+  "featuredKitchensTitle": "Kitchens worth the crave",
+  "featuredKitchensSubtitle": "Homestyle meals from families cooking near you",
+  "featuredKitchensEmpty": "Featured kitchens will appear here soon.",
+  "language": "Language",
+  "languageEnglish": "English",
+  "languageTelugu": "Telugu",
+  "chooseLanguage": "Choose language",
+  "dishDetailAbout": "About this dish",
+  "dishDetailTags": "Tags",
+  "dishDetailIngredients": "Ingredients",
+  "allDishesTitle": "All dishes",
+  "noDishesInCuisine": "No dishes in this cuisine yet.",
+  "noDishesToday": "No dishes available right now.",
+  "searchNoDishes": "No dishes match your search.",
+  "noDishesInCategory": "No dishes in this category.",
+  "noDishesEmptySubtitle": "Try another category or check back soon.",
+  "dishFilterVeg": "Veg",
+  "dishFilterNonVeg": "Non-veg",
+  "kitchenClosed": "Closed",
+  "kitchenOpen": "Open",
+  "kitchenClosedProfileTitle": "Kitchen is closed for now",
+  "kitchenClosedProfileSubtitle": "Don't worry — you can still browse the menu and pre-order your favourites for later.",
+  "kitchenClosedPreOrderHint": "Pre-order available",
+  "kitchenClosedPreOrderButton": "Pre-order",
+  "cuisinesTitle": "Cuisines",
+  "categoriesTitle": "Choose your favorite",
+  "categoriesSubtitle": "Biryani, rice, curries & more",
+  "recentlyViewedTitle": "Recently viewed",
+  "recentlyViewedSubtitle": "Pick up where you left off",
+  "searchCategories": "Search categories…",
+  "searchNoCategories": "No categories match your search.",
+  "cuisinesSubtitle": "Explore regional flavours near you",
+  "viewAll": "View all",
+  "searchCuisines": "Search cuisines…",
+  "searchNoCuisines": "No cuisines match your search.",
+  "allKitchensTitle": "All kitchens",
+  "searchNoKitchens": "No kitchens match your search.",
+  "searchNoKitchensSubtitle": "Try another name, cuisine, or clear your filters to discover more home kitchens.",
+  "searchClearFilters": "Clear filters",
+  "startupPopupClose": "Close",
+  "profileSignIn": "Sign in",
+  "profileSignOut": "Sign out",
+  "profileGuestName": "Guest",
+  "profileGuestSubtitle": "Sign in to save orders & offers"
+}

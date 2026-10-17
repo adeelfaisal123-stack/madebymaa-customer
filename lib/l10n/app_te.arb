@@ -1,0 +1,90 @@
+{
+  "@@locale": "te",
+  "navCart": "కార్ట్",
+  "navOrders": "ఆర్డర్లు",
+  "navExplore": "అన్వేషించండి",
+  "navNearby": "సమీపంలో",
+  "navProfile": "ప్రొఫైల్",
+  "nearbyMapEmpty": "{radius} km లోపు వంటగదులు లేవు.",
+  "@nearbyMapEmpty": {
+    "placeholders": {
+      "radius": {
+        "type": "String"
+      }
+    }
+  },
+  "nearbyLocationRequired": "సమీప వంటగదుల కోసం మీ స్థానాన్ని ఎంచుకోండి.",
+  "nearbyKitchenCount": "{count, plural, =1{{radius} km లోపు 1 వంటగది} other{{radius} km లోపు {count} వంటగదులు}}",
+  "@nearbyKitchenCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "radius": {
+        "type": "String"
+      }
+    }
+  },
+  "nearbyTitle": "మీ సమీప Mom Chefs",
+  "nearbySearchHint": "Mom chef వెతకండి",
+  "nearbyFilterAll": "అన్నీ",
+  "nearbyFilterTopRated": "టాప్ రేటెడ్",
+  "nearbyFilterCuisine": "వంటకం",
+  "notificationsTitle": "నోటిఫికేషన్లు",
+  "notificationsEmpty": "ఇంకా నోటిఫికేషన్లు లేవు",
+  "notificationsEmptyHint": "మీకు ఆర్డర్ అప్‌డేట్లు మరియు ప్రకటనలు వచ్చినప్పుడు ఇక్కడ కనిపిస్తాయి.",
+  "setYourLocation": "మీ స్థానాన్ని ఎంచుకోండి",
+  "searchKitchensDishes": "వంటగదలు, వంటకాలు వెతకండి…",
+  "cravingSomething": "ఏదైనా తినాలనుకుంటున్నారా?",
+  "categoryAll": "అన్నీ",
+  "categoryBreakfast": "అల్పాహారం",
+  "categoryLunch": "మధ్యాహ్న భోజనం",
+  "categorySnacks": "చిరుతిండి",
+  "categorySweets": "మిఠాయిలు",
+  "tastyDishesTitle": "రుచికరమైన వంటకాలు",
+  "tastyDishesSubtitle": "మీ సమీపంలోని గృహ వంటగదల నుండి ఎంపిక చేసినవి",
+  "featuredKitchensTitle": "ప్రత్యేకమైన వంటగదలు",
+  "featuredKitchensSubtitle": "మీ చుట్టూ ఉన్న కుటుంబాల ఇంటి వంటలు",
+  "featuredKitchensEmpty": "త్వరలో ఇక్కడ ప్రత్యేక వంటగదలు కనిపిస్తాయి.",
+  "language": "భాష",
+  "languageEnglish": "English",
+  "languageTelugu": "తెలుగు",
+  "chooseLanguage": "భాష ఎంచుకోండి",
+  "dishDetailAbout": "ఈ వంటకం గురించి",
+  "dishDetailTags": "ట్యాగ్లు",
+  "dishDetailIngredients": "పదార్థాలు",
+  "allDishesTitle": "అన్ని వంటకాలు",
+  "noDishesInCuisine": "ఈ వంటకాలలో ఇంకా వంటకాలు లేవు.",
+  "noDishesToday": "ప్రస్తుతం వంటకాలు అందుబాటులో లేవు.",
+  "searchNoDishes": "మీ వెతుకులో వంటకాలు కనిపించలేదు.",
+  "noDishesInCategory": "ఈ వర్గంలో వంటకాలు లేవు.",
+  "noDishesEmptySubtitle": "మరొక వర్గం ప్రయత్నించండి లేదా త్వరలో మళ్లీ చూడండి.",
+  "dishFilterVeg": "శాకాహారం",
+  "dishFilterNonVeg": "మాంసాహారం",
+  "kitchenClosed": "మూసివేయబడింది",
+  "kitchenOpen": "తెరిచి ఉంది",
+  "kitchenClosedProfileTitle": "వంటగద ప్రస్తుతం మూసివేయబడింది",
+  "kitchenClosedProfileSubtitle": "చింతించకండి — మీరు ఇప్పటికీ మెనూ చూడవచ్చు మరియు తర్వాత కోసం ముందస్తు ఆర్డర్ చేయవచ్చు.",
+  "kitchenClosedPreOrderHint": "ముందస్తు ఆర్డర్ అందుబాటులో ఉంది",
+  "kitchenClosedPreOrderButton": "ముందస్తు ఆర్డర్",
+  "cuisinesTitle": "వంటకాలు",
+  "categoriesTitle": "మీకు ఇష్టమైనది ఎంచుకోండి",
+  "categoriesSubtitle": "బిర్యానీ, అన్నం, కూరలు మరియు మరిన్ని",
+  "recentlyViewedTitle": "ఇటీవల చూసినవి",
+  "recentlyViewedSubtitle": "మీరు ఆపిన చోట నుండి కొనసాగండి",
+  "searchCategories": "వర్గాలు వెతకండి…",
+  "searchNoCategories": "మీ వెతుకులో వర్గాలు కనిపించలేదు.",
+  "cuisinesSubtitle": "మీ సమీపంలో ప్రాంతీయ రుచులు",
+  "viewAll": "అన్నీ చూడండి",
+  "searchCuisines": "వంటకాలు వెతకండి…",
+  "searchNoCuisines": "మీ వెతుకులో వంటకాలు కనిపించలేదు.",
+  "allKitchensTitle": "అన్ని వంటగదలు",
+  "searchNoKitchens": "మీ వెతుకులో వంటగదలు కనిపించలేదు.",
+  "searchNoKitchensSubtitle": "వేరే పేరు, వంటకాలు ప్రయత్నించండి లేదా ఫిల్టర్లు క్లియర్ చేసి మరిన్ని వంటగదలు చూడండి.",
+  "searchClearFilters": "ఫిల్టర్లు క్లియర్ చేయండి",
+  "startupPopupClose": "మూసివేయి",
+  "profileSignIn": "సైన్ ఇన్",
+  "profileSignOut": "సైన్ అవుట్",
+  "profileGuestName": "అతిథి",
+  "profileGuestSubtitle": "ఆర్డర్లు మరియు ఆఫర్లు సేవ్ చేయడానికి సైన్ ఇన్ చేయండి"
+}
